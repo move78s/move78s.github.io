@@ -2,7 +2,7 @@
 title: 파이썬 조건문/반복문 배우기 (1)
 author: move78s
 date: 2024-03-19 09:09:09 +0900
-categories: [python]
+categories: [python, expressions]
 tags: [python, 조건문, 반복문, conditional, loop, Pythonic]
 ---
 
